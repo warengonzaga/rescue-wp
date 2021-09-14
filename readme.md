@@ -1,6 +1,6 @@
 # Rescue WP (Experimental)
 
-[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![Release](https://img.shields.io/github/release/warengonzaga/rescue-wp.svg?style=flat-square)](https://github.com/warengonzaga/rescue-wp/releases) [![Star](https://img.shields.io/github/stars/warengonzaga/rescue-wp.svg?style=flat-square)](https://github.com/warengonzaga/rescue-wp/stargazers) [![License](https://img.shields.io/github/license/warengonzaga/rescue-wp.svg?style=flat-square)](https://github.com/warengonzaga/rescue-wp/blob/main/LICENSE)
+[![created by](https://img.shields.io/badge/created%20by-Waren%20Gonzaga-blue.svg?longCache=true&style=flat-square)](https://github.com/warengonzaga) [![discord](https://img.shields.io/discord/659684980137656340?color=%235865F2&label=discord&logo=discord&logoColor=white&style=flat-square)](https://wrngnz.ga/discord) [![release](https://img.shields.io/github/release/warengonzaga/rescue-wp.svg?style=flat-square)](https://github.com/warengonzaga/rescue-wp/releases) [![star](https://img.shields.io/github/stars/warengonzaga/rescue-wp.svg?style=flat-square)](https://github.com/warengonzaga/rescue-wp/stargazers) [![license](https://img.shields.io/github/license/warengonzaga/rescue-wp.svg?style=flat-square)](https://github.com/warengonzaga/rescue-wp/blob/main/license)
 
 An open-source life-saving plugin for WordPress developers.
 
@@ -18,6 +18,13 @@ The complete documentation can be found here:<br/>
 ## ⚡ Features
 
 (coming soon)
+
+## 📦 Installation
+
+To be able to start using this plugin just [download the latest release here](https://github.com/warengonzaga/rescue-wp/releases/latest).
+
+- Upload the plugin (.zip file) to the /wp-content/plugins/ directory.
+- Activate the Rescue WP plugin through the 'Plugins' menu in WordPress.
 
 ## 🕹️ Usage
 
